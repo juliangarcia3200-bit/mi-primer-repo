@@ -10,3 +10,8 @@ def comida_favorita():
 comida_favorita()
 color = input("¿Cuál es tu color favorito? ")
 print(f"Tu color favorito es {color}.")
+
+def hobby():
+    print("Me gusta programar y aprender cosas nuevas.")
+
+hobby()
